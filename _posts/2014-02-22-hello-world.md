@@ -6,4 +6,4 @@ splash: "http://placehold.it/1600x500"
 title: "Hello World!"
 ---
 
-I will start a blog today with the help of [prose.io](http://prose.io) content authoring for github pages. 
+I will start a blog today with the help of [prose.io](http://prose.io) content authoring for github pages. i like it.
